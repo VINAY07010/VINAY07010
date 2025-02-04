@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/vinay-jagtap-565a05323/lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BsVrZfS3JSBirylZZGOqi9g%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay jagtap" height="30" width="40" /></a>
 <a href="https://instagram.com/jagtap_vinay_07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagtap_vinay_07" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/VINAY JAGTAP" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinay jagtap" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sunstone_vinay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vinay jagtap" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
