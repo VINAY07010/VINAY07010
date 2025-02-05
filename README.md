@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay Jagtap</h1>
-<h3 align="center">passionate about AI/ML and Game Development</h3>
+<h3 align="center">Passionate about AI/ML and Game Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinay07010&label=Profile%20views&color=0e75b6&style=flat" alt="vinay07010" /> </p>
 
